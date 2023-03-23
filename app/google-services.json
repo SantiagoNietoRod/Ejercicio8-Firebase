@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16230574418",
+    "project_id": "ejercicio8-2a441",
+    "storage_bucket": "ejercicio8-2a441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16230574418:android:3630e8406d3e4d8596728b",
+        "android_client_info": {
+          "package_name": "com.example.ejercicio8_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16230574418-a8i2sqrgp9fmoo5vlipcckgkluc1l2fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAetCJiBX5JT-5WgTYLFoqD7GziU7pFZ5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16230574418-a8i2sqrgp9fmoo5vlipcckgkluc1l2fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
